@@ -1,0 +1,6 @@
+Name: Igbu Omaoghene Valor
+Matric Number: 23ag032712
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Joblib
+Live URL: https://titanic-project-igbuvalor-23ag032712.onrender.com
+GitHub Repository: https://github.com/valorcell/Titanic_Project_IgbuValor_23ag032712
